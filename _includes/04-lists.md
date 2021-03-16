@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Interests:
+  - Jogging
+  - Trekking
+  - Machine Learning
+  - Graphs
+  - Books
