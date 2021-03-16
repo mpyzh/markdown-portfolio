@@ -1,0 +1,6 @@
+- Interests:
+  - Jogging
+  - Trekking
+  - Machine Learning
+  - Graphs
+  - Books
